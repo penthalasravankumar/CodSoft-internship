@@ -15,4 +15,5 @@ TASK 1 : PORTFOLIO "A responsive and visually engaging portfolio website built u
 TASK 2 : LANDING PAGE "A sleek and responsive landing page crafted with HTML, CSS, and JavaScript. It features smooth scroll effects, intuitive layout, and dynamic content sections designed to capture attention and guide users seamlessly through key information."
 
 
+<img width="1722" height="1343" alt="image" src="https://github.com/user-attachments/assets/1b7dc3bf-cba3-4310-bb0d-ba0ebf5f7eb8" />
 
