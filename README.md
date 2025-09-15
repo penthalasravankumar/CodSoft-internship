@@ -19,3 +19,7 @@ TASK 2 : LANDING PAGE "A sleek and responsive landing page crafted with HTML, CS
 <img width="1722" height="1343" alt="image" src="https://github.com/user-attachments/assets/1b7dc3bf-cba3-4310-bb0d-ba0ebf5f7eb8" />
 
 TASK 3 : CALCULATOR "A functional calculator built using HTML, CSS, and JavaScript, featuring real-time input handling, basic arithmetic operations, and a clean, user-friendly interface."
+
+#output
+
+<img width="1722" height="804" alt="image" src="https://github.com/user-attachments/assets/e6c2e5f1-8216-4f27-9bf7-c09885af1b02" />
